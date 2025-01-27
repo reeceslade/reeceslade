@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reece</h1>
-<h3 align="center">I'm a Software Engineer from Farnham, Surrey</h3>
+<h3 align="center">A Software Engineer from Farnham, Surrey</h3>
 
 - 🔭 I’m currently dedicating my time to **my dissertation**, where I explore **how sentiment analysis can be used to uncover political bias in online discourse**. This project combines my love for technology with a strong interest in how digital platforms shape political opinions.  
 
